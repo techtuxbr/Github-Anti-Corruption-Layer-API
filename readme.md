@@ -34,3 +34,5 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs e novos r
 Licença
 
 Este projeto está licenciado sob a MIT License.
+
+## Não se esqueça de instalar as libs antes de rodar o projeto.
